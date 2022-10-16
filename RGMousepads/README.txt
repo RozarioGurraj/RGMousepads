@@ -14,4 +14,6 @@ ________________________________________________________________________________
 15/10
 
 0758: ReadeMe Updated.
-0805: Modele Class Added.
+0805: Model Class Added.
+0836: Class Attributes Added for Database in Models.
+
