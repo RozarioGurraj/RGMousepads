@@ -18,3 +18,6 @@ ________________________________________________________________________________
 0836: Class Attributes Added for Database in Models.
 0910: Scaffold Done.
 0911: Testing App.
+0912: About Us page link not working. Change Done in Controller.
+0915: Testing Again.
+0916: Test Sccussefull.

@@ -9,7 +9,7 @@ namespace RGMousepads.Controllers
             return View();
         }
 
-        public IActionResult AdboutUs()
+        public IActionResult AboutUs()
         {
             return View();
         }
